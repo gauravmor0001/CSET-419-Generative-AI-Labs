@@ -1,0 +1,6 @@
+Sequence Generation Lab
+
+Model 1 : LSTM
+Model 2 : Transformer
+
+Generated samples saved.

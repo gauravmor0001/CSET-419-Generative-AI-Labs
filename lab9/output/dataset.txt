@@ -1,0 +1,20 @@
+
+machine learning models learn patterns from data.
+sequence models process data step by step.
+recurrent neural networks are designed for sequential tasks.
+rnn models maintain hidden states across time steps.
+
+long short term memory networks solve long dependency problems.
+lstm uses gates to control information flow.
+gru models simplify the lstm architecture.
+sequence prediction is useful in many applications.
+
+language modeling predicts the next word in a sentence.
+speech recognition processes audio sequences.
+time series forecasting predicts future values.
+music generation creates new melodies.
+
+generative models learn probability distributions.
+they generate new samples similar to training data.
+sequence generation is widely used in artificial intelligence.
+deep learning improves sequence modeling performance.
